@@ -3,7 +3,7 @@
  * kirbytag html5youtube
  * responsive html5 youtube player embedding
  * 
- * copyright: Jannik Beyerstedt | http://jannikbeyerstedt.de | jtByt.Pictures@gmail.com
+ * copyright: Jannik Beyerstedt | http://jannikbeyerstedt.de | code@jannikbeyerstedt.de
  * license: http://www.gnu.org/licenses/gpl-3.0.txt GPLv3 License
  * 
  * version 2.0.1 (09.01.2015)
